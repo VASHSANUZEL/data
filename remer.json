@@ -1,0 +1,303 @@
+{
+ "REMER": [
+  {
+   "name": "Смесители",
+   "count": 0,
+   "pending": true,
+   "cols": [
+    {
+     "name": "X Style",
+     "img": null,
+     "pending": true,
+     "desc": "Минимализм на картридже Ø25 мм: тонкий корпус, излив мягко продолжает направление потока. Самая широкая палитра покрытий в линейке.",
+     "fins": [
+      "CR",
+      "NP",
+      "NPO",
+      "BO",
+      "NO",
+      "DO",
+      "BG",
+      "RL",
+      "CFP"
+     ],
+     "confirmed": true,
+     "count": 0,
+     "nmodels": 0,
+     "stock": 0,
+     "min": 0,
+     "max": 0,
+     "models": []
+    },
+    {
+     "name": "X Style Inox",
+     "img": null,
+     "pending": true,
+     "desc": "Та же геометрия X Style, но корпус из нержавеющей стали — для влажных зон и объектов с повышенными требованиями к коррозии.",
+     "fins": [
+      "SS"
+     ],
+     "confirmed": true,
+     "count": 0,
+     "nmodels": 0,
+     "stock": 0,
+     "min": 0,
+     "max": 0,
+     "models": []
+    },
+    {
+     "name": "Absolute",
+     "img": null,
+     "pending": true,
+     "desc": "Цельная конструкция из металла без видимых соединений. Чистая форма, которая одинаково работает и в светлом, и в тёмном санузле.",
+     "fins": [
+      "CR",
+      "NO",
+      "BO",
+      "XV",
+      "CFP",
+      "BG",
+      "DO",
+      "RP"
+     ],
+     "confirmed": true,
+     "count": 0,
+     "nmodels": 0,
+     "stock": 0,
+     "min": 0,
+     "max": 0,
+     "models": []
+    },
+    {
+     "name": "Metrica",
+     "img": null,
+     "pending": true,
+     "desc": "Однорычажные смесители с характерной формой рычага — заметный акцент там, где остальное решено сдержанно.",
+     "fins": [
+      "CR",
+      "NO",
+      "BO",
+      "XV",
+      "CFP",
+      "BG",
+      "DO",
+      "RP"
+     ],
+     "confirmed": true,
+     "count": 0,
+     "nmodels": 0,
+     "stock": 0,
+     "min": 0,
+     "max": 0,
+     "models": []
+    },
+    {
+     "name": "Class Line",
+     "img": null,
+     "pending": true,
+     "desc": "Параллель ручки и излива, круглый корпус в квадратном профиле. Держит и классический интерьер, и современный. Картридж Ø35 мм.",
+     "fins": [
+      "CR",
+      "NP",
+      "BO",
+      "NO"
+     ],
+     "confirmed": true,
+     "count": 0,
+     "nmodels": 0,
+     "stock": 0,
+     "min": 0,
+     "max": 0,
+     "models": []
+    },
+    {
+     "name": "Winner",
+     "img": null,
+     "pending": true,
+     "desc": "Рабочая линейка для проектов с ограниченным бюджетом: простая форма, честное качество, картридж Ø35 мм.",
+     "fins": [
+      "CR",
+      "NP",
+      "BO",
+      "NO"
+     ],
+     "confirmed": true,
+     "count": 0,
+     "nmodels": 0,
+     "stock": 0,
+     "min": 0,
+     "max": 0,
+     "models": []
+    },
+    {
+     "name": "Atelier",
+     "img": null,
+     "pending": true,
+     "desc": "Классическая пластика в современных пропорциях: декоративные детали на ручке, основании и аэраторе.",
+     "fins": [],
+     "confirmed": false,
+     "count": 0,
+     "nmodels": 0,
+     "stock": 0,
+     "min": 0,
+     "max": 0,
+     "models": []
+    },
+    {
+     "name": "Edge",
+     "img": null,
+     "pending": true,
+     "desc": "Однорычажные смесители с вниманием к граням. Есть базовое исполнение и дизайнерское — с линейным рисунком.",
+     "fins": [],
+     "confirmed": false,
+     "count": 0,
+     "nmodels": 0,
+     "stock": 0,
+     "min": 0,
+     "max": 0,
+     "models": []
+    },
+    {
+     "name": "Dream",
+     "img": null,
+     "pending": true,
+     "desc": "Эллиптический корпус, расширяющийся кверху, и ультратонкое основание 2 мм. Радиус между корпусом и изливом убран.",
+     "fins": [],
+     "confirmed": false,
+     "count": 0,
+     "nmodels": 0,
+     "stock": 0,
+     "min": 0,
+     "max": 0,
+     "models": []
+    },
+    {
+     "name": "Vanity",
+     "img": null,
+     "pending": true,
+     "desc": "Плавные линии охватывают основание и встроенный аэратор — смеситель читается как единая скульптурная форма.",
+     "fins": [],
+     "confirmed": false,
+     "count": 0,
+     "nmodels": 0,
+     "stock": 0,
+     "min": 0,
+     "max": 0,
+     "models": []
+    },
+    {
+     "name": "Minimal",
+     "img": null,
+     "pending": true,
+     "desc": "Округлые формы, косой срез носика, ручка с лёгким изгибом вверх. Классика в современном прочтении.",
+     "fins": [],
+     "confirmed": false,
+     "count": 0,
+     "nmodels": 0,
+     "stock": 0,
+     "min": 0,
+     "max": 0,
+     "models": []
+    },
+    {
+     "name": "Lounge",
+     "img": null,
+     "pending": true,
+     "desc": "Спокойная линейка для проектов, где смеситель не должен спорить с мебелью и камнем.",
+     "fins": [],
+     "confirmed": false,
+     "count": 0,
+     "nmodels": 0,
+     "stock": 0,
+     "min": 0,
+     "max": 0,
+     "models": []
+    }
+   ]
+  },
+  {
+   "name": "Душевая программа",
+   "count": 0,
+   "pending": true,
+   "cols": [
+    {
+     "name": "Верхний душ и потолочные изливы",
+     "img": null,
+     "pending": true,
+     "desc": "Настенные, потолочные и на кронштейне — в тех же покрытиях, что и смесители коллекции.",
+     "fins": [],
+     "confirmed": false,
+     "count": 0,
+     "nmodels": 0,
+     "stock": 0,
+     "min": 0,
+     "max": 0,
+     "models": []
+    },
+    {
+     "name": "Душевые системы",
+     "img": null,
+     "pending": true,
+     "desc": "Внешнего и скрытого монтажа, с термостатом и без.",
+     "fins": [],
+     "confirmed": false,
+     "count": 0,
+     "nmodels": 0,
+     "stock": 0,
+     "min": 0,
+     "max": 0,
+     "models": []
+    },
+    {
+     "name": "Изливы и дивертеры",
+     "img": null,
+     "pending": true,
+     "desc": "Настенные, потолочные и в борт ванны, многопозиционные переключатели.",
+     "fins": [],
+     "confirmed": false,
+     "count": 0,
+     "nmodels": 0,
+     "stock": 0,
+     "min": 0,
+     "max": 0,
+     "models": []
+    }
+   ]
+  },
+  {
+   "name": "Аксессуары и комплектующие",
+   "count": 0,
+   "pending": true,
+   "cols": [
+    {
+     "name": "Аксессуары для ванной",
+     "img": null,
+     "pending": true,
+     "desc": "Полотенцедержатели, крючки, дозаторы, ёршики, полки — в цвет смесителя.",
+     "fins": [],
+     "confirmed": false,
+     "count": 0,
+     "nmodels": 0,
+     "stock": 0,
+     "min": 0,
+     "max": 0,
+     "models": []
+    },
+    {
+     "name": "Комплектующие",
+     "img": null,
+     "pending": true,
+     "desc": "Аэраторы, донные клапаны, сифоны, запорные вентили, сливы-переливы.",
+     "fins": [],
+     "confirmed": false,
+     "count": 0,
+     "nmodels": 0,
+     "stock": 0,
+     "min": 0,
+     "max": 0,
+     "models": []
+    }
+   ]
+  }
+ ]
+}
